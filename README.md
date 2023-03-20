@@ -4,12 +4,14 @@ This is my portfolio for the Advanced GIS class!
 
 # About me
 
-I love GIS!
+Hi! My name is Linyue Luo, and you can call me Suke(as Su-ki). I’m currently a second year student from Master of Urban Design Program. I always use ArcGIS Pro for analysis when I work on a background research for my design work, and I’m also interested in it a lot. Hopefully you can find a lot of cool things here.
 
 # What I hope to learn
 
-All the things.
+Create neat and beautiful map;
+Produce real product.
+
 
 # Portfolio
 
-Here's where my map examples and other spatial stuff will go...
+This is my public portfolio for Advanced GIS at CMU! Here’s where all my cool work will go.
