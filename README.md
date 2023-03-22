@@ -18,4 +18,4 @@ Produce real product.
 This is my public portfolio for Advanced GIS at CMU! Here’s where all my cool work will go.
 
 
-[Click for my excecise](/summerfestdemo202.md)
+[Click for my excecise](/summerfestdemo2023.md)
