@@ -19,3 +19,7 @@ This is my public portfolio for Advanced GIS at CMU! Here’s where all my cool 
 
 
 [Click for my excecise](/summerfestdemo2023.md)
+
+## Assignment 1: Build and deploy a custom Google Map for a non-profit organization
+
+[Click for my map](/non_profit_map.md)
