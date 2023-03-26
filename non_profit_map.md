@@ -11,7 +11,7 @@
 
 Here's a screenshot of the color palette I used for the map:
 
-![](/color palette.png)
+![](/colorPalette.png)
 
 ## Screenshots of Stylized Map
 
