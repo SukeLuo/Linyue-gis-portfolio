@@ -10,6 +10,7 @@
 ## Color Palette of The Map
 
 Here's a screenshot of the color palette I used for the map:
+
 ![](/color palette.png)
 
 ## Screenshots of Stylized Map
