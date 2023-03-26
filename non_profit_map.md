@@ -1,6 +1,6 @@
 # Assignment 1: Build and deploy a custom Google Map for a non-profit organization
 
-Click [here](https://docs.google.com/document/d/13RVkb4wAbRj2a-NGelPUNtme0fChfHFGbQcunMY-gig/edit?usp=sharing) for Bid!
+## Click [here](https://docs.google.com/document/d/13RVkb4wAbRj2a-NGelPUNtme0fChfHFGbQcunMY-gig/edit?usp=sharing) for Bid!
 
 
 |                              Goal                              |                                     Questions to Ask                                            |
