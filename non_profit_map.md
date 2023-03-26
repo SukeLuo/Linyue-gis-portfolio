@@ -1,7 +1,8 @@
 # Assignment 1: Build and deploy a custom Google Map for a non-profit organization
 
-## Click [here](https://docs.google.com/document/d/13RVkb4wAbRj2a-NGelPUNtme0fChfHFGbQcunMY-gig/edit?usp=sharing) for Bid!
+## Click for [Bid](https://docs.google.com/document/d/13RVkb4wAbRj2a-NGelPUNtme0fChfHFGbQcunMY-gig/edit?usp=sharing)!
 
+## Click for [JSON code sample](/ParksMap.json)!
 
 |                              Goal                              |                                     Questions to Ask                                            |
 |------------------------------------------|---------------------------------------------------------------------------------|
