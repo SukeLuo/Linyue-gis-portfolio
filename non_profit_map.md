@@ -13,6 +13,13 @@ Here's a screenshot of the color palette I used for the map:
 
 ![](/colorPalette.png)
 
+|                     Feature Type                   |                     Element Type                     |                    Color                      |
+|------------------------------------------|---------------------------------------------------------------------------------|
+|     All     |         Labels / Text fill              |            Color #343434         |
+|     All     |         Labels / Text fill              |            Color #343434         |
+|     All     |         Labels / Text fill              |            Color #343434         |
+
+
 ## Screenshots of Stylized Map
 
 
@@ -23,9 +30,3 @@ Here's a screenshot of the color palette I used for the map:
 
 
 
-|                              Goal                              |                                     Questions to Ask                                            |
-|------------------------------------------|---------------------------------------------------------------------------------|
-|People get to know basic knowledge of wild mushrooms more.      |Do you think you know what wild mushrooms is?                                                    |
-|People are aware of the toxicity of some wild mushrooms.        |Can the poisoning chart give a sense of the serious harm caused by eating toxic wild mushrooms or                                                                       cooking them incorrectly?                                                                        |
-|People can learn how to identify toxic wild mushrooms.          |Do you think putting pictures of toixc wild mushrooms can help people identify them?             |
-|People can learn the correct cooking methods for wild mushrooms.|How do you think it is better to describe the cooking method other than the written description? |
