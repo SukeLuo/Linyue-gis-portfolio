@@ -30,13 +30,13 @@ I made the Icon Stylers of Feature Type Points of Attraction (Attraction, Busine
 
 ## Screenshots of Stylized Map
 
-Map of large scale.
+### Map of large scale.
 ![](/upload1.png)
 
-Map of medium scale.
+### Map of medium scale.
 ![](/upload2.png)
 
-Map of small scale.
+### Map of small scale.
 ![](/upload3.png)
 
 ## Summary of Design Decision
