@@ -41,6 +41,8 @@ I made the Icon Stylers of Feature Type Points of Attraction (Attraction, Busine
 
 ## Summary of Design Decision
 
+When tasked with creating a map design for Google Maps, I wanted to create a visual representation that would emphasize the parks in Pittsburgh while minimizing the visibility of other features, such as attraction points and line networks. In order to achieve this, I carefully selected several key colors from the [Pittsburgh Parks Conservancy](https://pittsburghparks.org/) to use in my design. By highlighting these colors throughout the map, I was able to draw attention to the lush green spaces that the city has to offer, making them stand out from the surrounding areas. I also made sure to use subtle, understated tones for other elements of the map, such as attraction points and line networks, so as not to detract from the primary focus of the design. Overall, my goal was to create a clean and visually appealing map that would help users easily navigate and explore the beautiful parks of Pittsburgh.
+
 
 ## Outline of Process
 
