@@ -14,7 +14,7 @@ Here's a screenshot of the color palette I used for the map:
 ![](/colorPalette.png)
 
 |                     Feature Type                   |                     Element Type                     |                    Color                      |
-|------------------------------------------|---------------------------------------------------------------------------------|
+|----------------------------------------------------|------------------------------------------------------|-----------------------------------------------|
 |     All     |         Labels / Text fill              |            Color #343434         |
 |     All     |         Labels / Text fill              |            Color #343434         |
 |     All     |         Labels / Text fill              |            Color #343434         |
