@@ -39,6 +39,10 @@ I made the Icon Stylers of Feature Type Points of Attraction (Attraction, Busine
 ### Map of small scale
 ![](/upload3.png)
 
+I'm unable to delete the Chinese version text on the map due to my computer default settings.
+
+
+
 ## Summary of Design Decision
 
 When tasked with creating a map design for Google Maps, I wanted to create a visual representation that would emphasize the parks in Pittsburgh while minimizing the visibility of other features, such as attraction points and line networks. In order to achieve this, I carefully selected several key colors from the [Pittsburgh Parks Conservancy](https://pittsburghparks.org/) to use in my design. By highlighting these colors throughout the map, I was able to draw attention to the lush green spaces that the city has to offer, making them stand out from the surrounding areas. I also made sure to use subtle, understated tones for other elements of the map, such as attraction points and line networks, so as not to detract from the primary focus of the design. Overall, my goal was to create a clean and visually appealing map that would help users easily navigate and explore the beautiful parks of Pittsburgh.
@@ -46,5 +50,12 @@ When tasked with creating a map design for Google Maps, I wanted to create a vis
 
 ## Outline of Process
 
+Step 1: Take a screenshot of the website, then generate a color palette from this screenshot.
 
+Step 2: Decide how to use different color to represent different features in the map. For example, Color #74a484 for Park/ fill, Color #4a835e for Park/ Stroke, and Color #cd6138 for Park's labels.
 
+Step 3: Hide the icon of other features, make them inconspicuous.
+
+Stpe 4: Adjust the color of line networks, make them inconspicuous as well.
+
+Step 5: Make a copy of JSON code.
