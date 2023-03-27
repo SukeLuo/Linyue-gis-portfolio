@@ -4,7 +4,9 @@
 ## Click for [Bid](https://docs.google.com/document/d/13RVkb4wAbRj2a-NGelPUNtme0fChfHFGbQcunMY-gig/edit?usp=sharing)!
 
 
+
 ## Click for [JSON Code Sample](/ParksMap.json)!
+
 
 
 ## Color Palette of The Map
@@ -25,12 +27,16 @@ Here's a screenshot of the color palette I used for the map:
 I made the Icon Stylers of Feature Type Points of Attraction (Attraction, Business, Government, Medical, Place of Worship, School, and Sports Complex) as hidden.
 
 
+
 ## Screenshots of Stylized Map
 
+Map of large scale.
 ![](/upload1.png)
 
+Map of medium scale.
 ![](/upload2.png)
 
+Map of small scale.
 ![](/upload3.png)
 
 ## Summary of Design Decision
