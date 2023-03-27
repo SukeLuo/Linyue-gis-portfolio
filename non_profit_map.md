@@ -22,11 +22,16 @@ Here's a screenshot of the color palette I used for the map:
 |     Park    |                   Icon                  |            Color #cd6138         |
 |   Highway   |               Geometry                  |            Color #f3e4d8         |
 
-I made the Icon Stylers of Feature Type Points of Attraction (Attraction, Business, Government, Medical, Place of Worship, and School) as hidden.
+I made the Icon Stylers of Feature Type Points of Attraction (Attraction, Business, Government, Medical, Place of Worship, School, and Sports Complex) as hidden.
 
 
 ## Screenshots of Stylized Map
 
+![](/upload1.png)
+
+![](/upload2.png)
+
+![](/upload3.png)
 
 ## Summary of Design Decision
 
