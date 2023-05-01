@@ -27,3 +27,7 @@ This is my public portfolio for Advanced GIS at CMU! Here’s where all my cool 
 ## Assignment 2: Mingo County Pain Pills Analysis
 
 [Click for my analysis](/mingocountypainpill.md)
+
+## Final Project: A Study of the Influence of Demographics on Property Values
+
+[Click for my final project](/finalproject.md)
